@@ -23,12 +23,13 @@ We've built a communal Arena on _Brosandi Island_ south of the starting continen
 
 * [Fight Club](https://www.nexusmods.com/valheim/mods/223) enables duels without risk of death. Challenge someone with K, and they can accept with L, and then whoever is about to die will be reset to 1 hp and the winner is announced on the screen.
 * [Better Archery](https://www.nexusmods.com/valheim/mods/348) just makes everything about using a bow more enjoyable. Vanilla bow aim is just ridiculous.
+* [Customizable Camera](https://www.nexusmods.com/valheim/mods/396), which adds further ways to improve camera including aiming. (Better Archery didn't have the configs to adjust aim as precisely).
 * [Combat Stance](https://www.nexusmods.com/valheim/mods/211) lets you turn to where you're pointing while wielding a weapon. Useful for blocking in the right direction without having to move.
 * [First Person View](https://www.nexusmods.com/valheim/mods/44) lets you zoom all the way into first-person view.
 * [1-Key Dodge](https://www.nexusmods.com/valheim/mods/424?tab=posts) lets you dodge with one key, set by you. You can still dodge as normal if you prefer that.
 * [Let Me Eat](https://valheim.thunderstore.io/package/Menthus/Let_Me_Eat/) lets us sync eating before Arena fights without having to wait for us to all get hungry.
 * [TargetPractice](https://www.nexusmods.com/valheim/mods/1246) for nice aesthetic improvements and for archery competitions.
-* [Fortify Skills](https://www.nexusmods.com/valheim/mods/172). For team-vs-team, we can't use the Fight Club thing. So Fortify Skills has been installed so that your skills won't be completely obliterated if you like to engage in frequent pvp fights. The mod is explained further down in the mod list.
+* [Fortify Skills](https://www.nexusmods.com/valheim/mods/172). The mod is explained further down in the mod list.
 * Also patched and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
 
 ![Baldur and Alitoma fighting in the Brosandi Arena](https://live.staticflickr.com/65535/51308297184_ee515909ef_b.jpg)
@@ -44,11 +45,11 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 
 | Mod | Description |
 | ------ | ------ |
-| [Valheim Plus](https://www.nexusmods.com/valheim/mods/4) | F4 to activate Advanced Building Mode. Makes furnaces/beehives/fermenter (and similar) pull from very nearby inventories and return the finished products. Craft from nearby chests. Various other nice features. |
+| [Valheim Plus](https://www.nexusmods.com/valheim/mods/4) | _F1_ to activate Advanced Building Mode. Makes furnaces/beehives/fermenter (and similar) pull from very nearby inventories and return the finished products. Craft from nearby chests. Various other nice features. |
 | [Mod Config Enforcer](https://www.nexusmods.com/valheim/mods/460) | Clients retrieve the server's config files for mods while being logged on to the server, without overwriting local config files. |
 | [Better Trader](https://valheim.thunderstore.io/package/Menthus/Better_Trader/) | Adds some trades to Haldor, balanced to ensure there are no exploits and it doesn't interfere with a player-based economy. |
 | [Better Archery](https://www.nexusmods.com/valheim/mods/348) | Improves aim and projectile speed. Feels much better. |
-| [Fight Club](https://www.nexusmods.com/valheim/mods/223) | Send challenges with K and accept with L. |
+| [Fight Club](https://www.nexusmods.com/valheim/mods/223) | Send challenges with _K_ and accept with _L_. |
 | [Let Me Eat](https://valheim.thunderstore.io/package/Menthus/Let_Me_Eat/) | So that we can sync eating before Arena fights without having to wait for us to all get hungry. |
 | [TargetPractice](https://www.nexusmods.com/valheim/mods/1246) | Introduces training dummies and archery targets into the build menu. |
 | [Cartography Skill and Spyglass](https://valheim.thunderstore.io/package/Advize/CartographySkill/) | Your map explore radius increases linearly with your level, doubling at level 100. |
@@ -66,9 +67,9 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 | [More Gates](https://www.nexusmods.com/valheim/mods/1087) | More build pieces! |
 | [Better Ladders](https://www.nexusmods.com/valheim/mods/1054) | Ladders are terrible. This makes them less terrible. |
 | [InstantMonsterDrop](https://www.nexusmods.com/valheim/mods/164) | You don't have to wait an eternity for monsters to pof after they die. |
-| [Configuration Manager](https://www.nexusmods.com/valheim/mods/740) | Open the Configuration Manager by pressing F4. |
+| [Configuration Manager](https://www.nexusmods.com/valheim/mods/740) | Open the Configuration Manager by pressing _F4_. |
 | [Custom Textures](https://www.nexusmods.com/valheim/mods/48) | Dependency for some things like glow-less draugr fang. |
-| [BetterUI](https://valheim.thunderstore.io/package/Masa/BetterUI/) | By default only some features are active, but you can configure this however you wish. F7 to adjust position of hud elements. |
+| [BetterUI](https://valheim.thunderstore.io/package/Masa/BetterUI/) | By default only some features are active, but you can configure this however you wish. _F7_ to adjust position of hud elements. |
 | [First Person View](https://www.nexusmods.com/valheim/mods/44) | Lets you zoom into first-person view. |
 | [CombatStance](https://www.nexusmods.com/valheim/mods/211) | You turn to where you're pointing when wielding a weapon. Useful for blocking. |
 | [CropReplant](https://www.nexusmods.com/valheim/mods/99) | Middle-click a crop with the hoe equipped to harvest and replant in a single action. |
@@ -82,7 +83,9 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 | [ExtendedDaytime](https://valheim.thunderstore.io/package/castix/ExtendedDaytime/) | Extends daytime. |
 | [Immersive Hud](https://www.nexusmods.com/valheim/mods/790) | Lets you customise when and if you want to see some HUD features. |
 | [Map Coordinates Display](https://www.nexusmods.com/valheim/mods/907) | You can see the coordinates for where your cursor hovers over the map. |
-| [TransparentSail](https://valheim.thunderstore.io/package/MathiasDecrock/TransparentSail/) | Press H to make your ship's sail transparent on your own screen, so you can more easily see where you're headed. This automatically turns off when you leave the boat. |
+| [QuickStack](https://valheim.thunderstore.io/package/damnsneaker/QuickStack/) | Press a configurable key to quickly sort specified items/inventory slots into nearby chests. _NumpadPeriod_ by default.|
+| [Freefly](https://valheim.thunderstore.io/package/CallMeSlinky/Freefly/) | Press _F10_ by default to activate freefly camera to take pretty screenshots or videos of your builds, or of arena fights! |
+| [TransparentSail](https://valheim.thunderstore.io/package/MathiasDecrock/TransparentSail/) | Press _H_ to make your ship's sail transparent on your own screen, so you can more easily see where you're headed. This automatically turns off when you leave the boat. |
 | [Mount Up](https://www.nexusmods.com/valheim/mods/1091) | Allows you to mount and control tamed Loxen, Boars, and Wolves! (Someone really needs to get going with a wolf-taming-and-selling business...) |
 | [Valheim Permissions](https://www.nexusmods.com/valheim/mods/1050) | Dependency for SSC and Zones. |
 | [JotunnLib](https://www.nexusmods.com/valheim/mods/507) | Dependency for a bunch of stuff. |
@@ -95,14 +98,17 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 | [RRRCore](https://valheim.thunderstore.io/package/neurodr0me/RRRCore/) | Dependency for Monsternomicon features. |
 | [MonsterLabZ](https://www.nexusmods.com/valheim/mods/1264) | Dependency for Monsternomicon features. |
 | [Spawn That](https://www.nexusmods.com/valheim/mods/453) | Dependency for customising monster spawning. Configs are all server-side. |
+| [ServerBuddy](https://www.nexusmods.com/valheim/mods/1386) | Controls what mods clients are allowed to use in order to connect to the server. Server-side configs to whitelist mods. |
+
 
 ## How to install
 
 If you prefer video, here's a [quick how-to](https://youtu.be/eh_osC1R_6U).
 
 * Download and install [r2modman](https://valheim.thunderstore.io/package/ebkr/r2modman/) (Thunderstore Mod Manager works the same, but this one is simpler.)
-* After it's installed, open the manager and create a new profile. Name it "Legends of Valheim" or whatever you prefer.
-* Search the online mods for "Legends of Valheim Modpack", click "Install" and select "Download with dependencies".
+* After it's installed, open the manager and select 'Valheim' as the game you want it to manage.
+* Now click _Create new_ profile and name it "Legends of Valheim" or whatever you prefer, and click _Select profile_.
+* On the left side of the manager, click _Online_ and search the online mods for "Legends of Valheim Modpack". Click "Install" and select "Download with dependencies".
 
 Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and _Legends_of_Valheim_Modpack_. You are now ready to join the server! Just click _Start modded_ in the top-left corner of the r2modman manager (or the mod manager of your choice).
 
@@ -112,12 +118,16 @@ Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and 
 
 ## Changelog
 
+SERVER TODO SUGGESTIONS:
+* Add [Cartography](https://valheim.thunderstore.io/package/Advize/CartographySkill/) mod, because it can enforce server-side configs unto clients.
+* Add [ServerBuddy](https://www.nexusmods.com/valheim/mods/1386), and config the whitelist file.
+* Add [SkipSleep](https://valheim.thunderstore.io/package/R1NS3/SkipSleep/)? Supposedly it works if only installed on server, and it can allow us to skip nights during tournament matches and such.
 
-### 1.1.3 - Backpacks and Adventuring Misc (WIP)
+### 1.1.3 - Backpacks and Adventuring Update!
 
-TODO:
+TODO SUGGESTIONS:
 * [Bears](https://www.nexusmods.com/valheim/mods/1342)!
-* Add [the backpacks](https://github.com/Emrik-North/JotunnBackpacks)!
+* Add [JotunnBackpacks](https://github.com/Emrik-North/JotunnBackpacks)!
 * Add [RecipeCustomization](https://www.nexusmods.com/valheim/mods/1245)
 * Use RC to change the backpack recipes to use bear hides.
 * [GypsyVikings](https://www.nexusmods.com/valheim/mods/1211) for those awesome tents.
@@ -125,12 +135,8 @@ TODO:
 
 ### 1.1.2 - PVP Improvements and Cartography (WIP)
 
-TODO:
-* TEST whether we can remove ExtendedDaytime, and it still work on server. Nope.
-* Replace ExtendedDaytime with something else!
-
-SERVER TODO:
-* Add Cartography skill mod, because it can enforce server-side configs unto clients.
+TODO SUGGESTIONS:
+* Replace [ExtendedDaytime](https://www.nexusmods.com/valheim/mods/38) with Aedenthorn's [DayCyle](https://www.nexusmods.com/valheim/mods/98)? Since ED does funky things to lighting and clocks can desync. Plus, Aedenthorn's mod is more recently updated by 5 months.
 
 IMPLEMENTED:
 * Patched and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
@@ -143,13 +149,17 @@ IMPLEMENTED:
 * Added [Customizable Camera](https://www.nexusmods.com/valheim/mods/396), which adds ways to improve camera including aiming. (Better Archery didn't have the configs to adjust aim as precisely).
 * Right-click while aiming with a bow in order to focus (zoom in and reduce mouse sensitivity). (Customizable Camera configs.)
 * Disabled Better Archery zoom section, because Customizable Camera deals with that much better.
-* Adjusted Customizable Camera and Better Archery so that aiming is as close to perfect as possible. (By Odin's beard this took a long time!
+* Adjusted Customizable Camera and Better Archery so that aiming makes as much sense as possible. (By Odin's beard this took a long time!
+* Added [Freefly](https://valheim.thunderstore.io/package/CallMeSlinky/Freefly/), which lets everyone use the freefly camera to make pretty screenshots/videos! F10 to activate by default.
+* Configured CustomTextures so that by default it has no hotkey for reloading textures, since we didn't need it and it was conflicting with Freefly's use of F10.
 * Added [Cartography Skill and Spyglass](https://valheim.thunderstore.io/package/Advize/CartographySkill/) which increases the map explore radius the higher your level is.
 * Added [SkillInjector](https://valheim.thunderstore.io/package/pipakin/SkillInjector/) because it is a dependency for all skill-introducing mods like Cartography.
-* Updated TransparentSails to v1.1.1.
+* Got Mathias to update their TransparentSails to v1.1.1, because toggling wasn't working with the new Jotunn version!
 * Added [Useful Trophies](https://valheim.thunderstore.io/package/Khairex/Useful_Trophies/), which enables you to consume trophies for XP in a random skill.
 * Patched and recompiled _Useful Trophies_ to be server-safe and unexploitable, and increased the XP value you get from serpent trophies and rock golem trophies. Valuable commodities!
 * Added [Valheim Performance Optimizations](https://www.nexusmods.com/valheim/mods/1360), which should increase FPS and load times, especially near the Capital.
+* Added [QuickStack](https://valheim.thunderstore.io/package/damnsneaker/QuickStack/), which lets you press a configurable key to quickly sort specified items/inventory slots into nearby chests. 'NumpadPeriod' by default.
+* Added [ServerBuddy](https://www.nexusmods.com/valheim/mods/1386), which creates a server-side config file that can whitelist mods and block clients with non-whitelisted mods.
 
 ### 1.1.1
 Had to reupload because the Thunderstore interpreter messed up the changelog section of the readme.

@@ -23,12 +23,13 @@ We've built a communal Arena on _Brosandi Island_ south of the starting continen
 
 * [Fight Club](https://www.nexusmods.com/valheim/mods/223) enables duels without risk of death. Challenge someone with K, and they can accept with L, and then whoever is about to die will be reset to 1 hp and the winner is announced on the screen.
 * [Better Archery](https://www.nexusmods.com/valheim/mods/348) just makes everything about using a bow more enjoyable. Vanilla bow aim is just ridiculous.
+* [Customizable Camera](https://www.nexusmods.com/valheim/mods/396), which adds further ways to improve camera including aiming. (Better Archery didn't have the configs to adjust aim as precisely).
 * [Combat Stance](https://www.nexusmods.com/valheim/mods/211) lets you turn to where you're pointing while wielding a weapon. Useful for blocking in the right direction without having to move.
 * [First Person View](https://www.nexusmods.com/valheim/mods/44) lets you zoom all the way into first-person view.
 * [1-Key Dodge](https://www.nexusmods.com/valheim/mods/424?tab=posts) lets you dodge with one key, set by you. You can still dodge as normal if you prefer that.
 * [Let Me Eat](https://valheim.thunderstore.io/package/Menthus/Let_Me_Eat/) lets us sync eating before Arena fights without having to wait for us to all get hungry.
 * [TargetPractice](https://www.nexusmods.com/valheim/mods/1246) for nice aesthetic improvements and for archery competitions.
-* [Fortify Skills](https://www.nexusmods.com/valheim/mods/172). For team-vs-team, we can't use the Fight Club thing. So Fortify Skills has been installed so that your skills won't be completely obliterated if you like to engage in frequent pvp fights. The mod is explained further down in the mod list.
+* [Fortify Skills](https://www.nexusmods.com/valheim/mods/172). The mod is explained further down in the mod list.
 * Also patched and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
 
 ![Baldur and Alitoma fighting in the Brosandi Arena](https://live.staticflickr.com/65535/51308297184_ee515909ef_b.jpg)
@@ -104,11 +105,13 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 
 If you prefer video, here's a [quick how-to](https://youtu.be/eh_osC1R_6U).
 
-* Download and install [r2modman](https://valheim.thunderstore.io/package/ebkr/r2modman/) (Thunderstore Mod Manager works the same, but this one is simpler.)
-* After it's installed, open the manager and create a new profile. Name it "Legends of Valheim" or whatever you prefer.
-* Search the online mods for "Legends of Valheim Modpack", click "Install" and select "Download with dependencies".
+* Download and install [r2modman](https://valheim.thunderstore.io/package/ebkr/r2modman/).
+* After it's installed, open the manager and select _Valheim_ as the game you want it to manage.
+* Now click _Create new_ profile and name it "Legends of Valheim" or whatever you prefer, and click _Select profile_.
+* On the left side of the manager, click _Online_ and search the online mods for "Legends of Valheim Modpack". Click "Install" and select "Download with dependencies".
+* All done!
 
-Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and _Legends_of_Valheim_Modpack_. You are now ready to join the server! Just click _Start modded_ in the top-left corner of the r2modman manager (or the mod manager of your choice).
+Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and _Legends_of_Valheim_Modpack_. You are now ready to join the server! Just click _Start modded_ in the top-left corner.
 
 ## TODO
 
@@ -120,6 +123,7 @@ SERVER TODO SUGGESTIONS:
 * Add [Cartography](https://valheim.thunderstore.io/package/Advize/CartographySkill/) mod, because it can enforce server-side configs unto clients.
 * Add [ServerBuddy](https://www.nexusmods.com/valheim/mods/1386), and config the whitelist file.
 * Add [SkipSleep](https://valheim.thunderstore.io/package/R1NS3/SkipSleep/)? Supposedly it works if only installed on server, and it can allow us to skip nights during tournament matches and such.
+* Replace [ExtendedDaytime](https://www.nexusmods.com/valheim/mods/38) with Aedenthorn's [DayCyle](https://www.nexusmods.com/valheim/mods/98)? Since ED does funky things to lighting and clocks can desync. Plus, Aedenthorn's mod is more recently updated by 5 months.
 
 ### 1.1.3 - Backpacks and Adventuring Update!
 
@@ -132,9 +136,6 @@ TODO SUGGESTIONS:
 * Use RC to remove the not-so-awesome-and-kinda-silly-looking tents from _GypsyVikings_.
 
 ### 1.1.2 - PVP Improvements and Cartography (WIP)
-
-TODO SUGGESTIONS:
-* Replace [ExtendedDaytime](https://www.nexusmods.com/valheim/mods/38) with Aedenthorn's [DayCyle](https://www.nexusmods.com/valheim/mods/98)? Since ED does funky things to lighting and clocks can desync. Plus, Aedenthorn's mod is more recently updated by 5 months.
 
 IMPLEMENTED:
 * Patched and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
@@ -152,7 +153,7 @@ IMPLEMENTED:
 * Configured CustomTextures so that by default it has no hotkey for reloading textures, since we didn't need it and it was conflicting with Freefly's use of F10.
 * Added [Cartography Skill and Spyglass](https://valheim.thunderstore.io/package/Advize/CartographySkill/) which increases the map explore radius the higher your level is.
 * Added [SkillInjector](https://valheim.thunderstore.io/package/pipakin/SkillInjector/) because it is a dependency for all skill-introducing mods like Cartography.
-* Updated TransparentSails to v1.1.1.
+* Got Mathias to update their TransparentSails to v1.1.1, because toggling wasn't working with the new Jotunn version!
 * Added [Useful Trophies](https://valheim.thunderstore.io/package/Khairex/Useful_Trophies/), which enables you to consume trophies for XP in a random skill.
 * Patched and recompiled _Useful Trophies_ to be server-safe and unexploitable, and increased the XP value you get from serpent trophies and rock golem trophies. Valuable commodities!
 * Added [Valheim Performance Optimizations](https://www.nexusmods.com/valheim/mods/1360), which should increase FPS and load times, especially near the Capital.

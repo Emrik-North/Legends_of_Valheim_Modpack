@@ -105,12 +105,13 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 
 If you prefer video, here's a [quick how-to](https://youtu.be/eh_osC1R_6U).
 
-* Download and install [r2modman](https://valheim.thunderstore.io/package/ebkr/r2modman/) (Thunderstore Mod Manager works the same, but this one is simpler.)
-* After it's installed, open the manager and select 'Valheim' as the game you want it to manage.
+* Download and install [r2modman](https://valheim.thunderstore.io/package/ebkr/r2modman/).
+* After it's installed, open the manager and select _Valheim_ as the game you want it to manage.
 * Now click _Create new_ profile and name it "Legends of Valheim" or whatever you prefer, and click _Select profile_.
 * On the left side of the manager, click _Online_ and search the online mods for "Legends of Valheim Modpack". Click "Install" and select "Download with dependencies".
+* All done!
 
-Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and _Legends_of_Valheim_Modpack_. You are now ready to join the server! Just click _Start modded_ in the top-left corner of the r2modman manager (or the mod manager of your choice).
+Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and _Legends_of_Valheim_Modpack_. You are now ready to join the server! Just click _Start modded_ in the top-left corner.
 
 ## TODO
 
@@ -122,6 +123,7 @@ SERVER TODO SUGGESTIONS:
 * Add [Cartography](https://valheim.thunderstore.io/package/Advize/CartographySkill/) mod, because it can enforce server-side configs unto clients.
 * Add [ServerBuddy](https://www.nexusmods.com/valheim/mods/1386), and config the whitelist file.
 * Add [SkipSleep](https://valheim.thunderstore.io/package/R1NS3/SkipSleep/)? Supposedly it works if only installed on server, and it can allow us to skip nights during tournament matches and such.
+* Replace [ExtendedDaytime](https://www.nexusmods.com/valheim/mods/38) with Aedenthorn's [DayCyle](https://www.nexusmods.com/valheim/mods/98)? Since ED does funky things to lighting and clocks can desync. Plus, Aedenthorn's mod is more recently updated by 5 months.
 
 ### 1.1.3 - Backpacks and Adventuring Update!
 
@@ -134,9 +136,6 @@ TODO SUGGESTIONS:
 * Use RC to remove the not-so-awesome-and-kinda-silly-looking tents from _GypsyVikings_.
 
 ### 1.1.2 - PVP Improvements and Cartography (WIP)
-
-TODO SUGGESTIONS:
-* Replace [ExtendedDaytime](https://www.nexusmods.com/valheim/mods/38) with Aedenthorn's [DayCyle](https://www.nexusmods.com/valheim/mods/98)? Since ED does funky things to lighting and clocks can desync. Plus, Aedenthorn's mod is more recently updated by 5 months.
 
 IMPLEMENTED:
 * Patched and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D

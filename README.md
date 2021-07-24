@@ -142,10 +142,10 @@ SERVER TODO:
 * Patched and recompiled _Useful Trophies_ to be server-safe and unexploitable, and increased the XP value you get from serpent trophies and rock golem trophies. Valuable commodities!
 * Added [Valheim Performance Optimizations](https://www.nexusmods.com/valheim/mods/1360), which should increase FPS and load times, especially near the Capital.
 
-#### 1.1.1
+### 1.1.1
 Had to reupload because the Thunderstore interpreter messed up the changelog section of the readme.
 
-#### 1.1.0
+### 1.1.0
 (This is a complete list of all the changes that have been made to this modpack compared to the original download we had via the Discord channel.)
 
 * Added Map Coordinate Display (client-side). Makes it much easier to figure out which area of land you want to purchase from the government.
@@ -174,9 +174,9 @@ Had to reupload because the Thunderstore interpreter messed up the changelog sec
 * Added Fortify Skills (client-side technically, but since we have SSC, the modified character info is saved on the server). This is especially useful to have on the server if people want to have PVP frequently without going back to level 1 in all skills.
 * Added CustomContainerSizes (client-side, but won't take effect without some server configuration) and configured it to contain exactly the same container sizes that the server already has using Valheim Plus. This is to enable a fix to three bugs: the bug where equipment seems to be gone after you claim your items from your grave, the bug where the bottom row of your inventory was blanked, and the bug where the quiver from Better Archery was inaccessible.
 
-#### 1.0.0 - 1.0.3
+### 1.0.0 - 1.0.3
 Contains lots of features that we're working on making compatible with the server.
 _([Readme for v 1.0.3.](https://valheim.thunderstore.io/package/LoV/Legends_of_Valheim_Modpack/1.0.3/))_
 
-#### 0.1.0
+### 0.1.0
 Old. Please update!

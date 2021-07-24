@@ -114,20 +114,16 @@ Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and 
 
 ## Changelog
 
-### 1.1.3
-TODO
-* Blackmetal battleaxe for Trygve
-* Test various portal-changing mods.
-
-SERVER TODO:
-* Add Cartography skill mod, because it can enforce server-side configs unto clients.
-
 ### 1.1.2 - PVP Improvements and Cartography
 
 TODO:
-* TEST whether we can remove ExtendedDaytime, and it still work on Server. Nope.
+* TEST whether we can remove ExtendedDaytime, and it still work on server. Nope.
 * Replace ExtendedDaytime with something else!
 
+SERVER TODO:
+* Add Cartography skill mod, because it can enforce server-side configs unto clients.
+  
+  
 * Patched and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
 * Corrected default keybinds for Challenge (K) and Accept Challenge (L) in Fight Club mod.
 * Corrected default keybind for hiding all pins on the map to F9 since F7 was already taken by BetterUI.

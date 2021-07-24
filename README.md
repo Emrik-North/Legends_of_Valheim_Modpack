@@ -109,12 +109,21 @@ Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and 
 ## TODO
 
 * Biome overhauls in the Mistlands, Deep North and the Ashlands. New monsters and drops!
-* Add backpacks that cannot be exploited (unlike BackpackRedux) with custom meshes. Emrik is working hard on it!
-* Find a way to ensure that when you die in a team-vs-team pvp fight, your skills won't decrease. We don't want to _disincentivise_ having fun with pvp!
 
 ## Changelog
 
-### 1.1.2 - PVP Improvements and Cartography
+
+### 1.1.3 - Backpacks and Adventuring Misc (WIP)
+
+TODO:
+* [Bears](https://www.nexusmods.com/valheim/mods/1342)!
+* Add [the backpacks](https://github.com/Emrik-North/JotunnBackpacks)!
+* Add [RecipeCustomization](https://www.nexusmods.com/valheim/mods/1245)
+* Use RC to change the backpack recipes to use bear hides.
+* [GypsyVikings](https://www.nexusmods.com/valheim/mods/1211) for those awesome tents.
+* Use RC to remove the not-so-awesome-and-kinda-silly-looking tents from _GypsyVikings_.
+
+### 1.1.2 - PVP Improvements and Cartography (WIP)
 
 TODO:
 * TEST whether we can remove ExtendedDaytime, and it still work on server. Nope.
@@ -122,8 +131,8 @@ TODO:
 
 SERVER TODO:
 * Add Cartography skill mod, because it can enforce server-side configs unto clients.
-  
-  
+
+IMPLEMENTED:
 * Patched and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
 * Corrected default keybinds for Challenge (K) and Accept Challenge (L) in Fight Club mod.
 * Corrected default keybind for hiding all pins on the map to F9 since F7 was already taken by BetterUI.

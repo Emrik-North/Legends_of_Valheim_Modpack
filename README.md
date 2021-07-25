@@ -146,13 +146,10 @@ Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and 
 * [GypsyVikings](https://www.nexusmods.com/valheim/mods/1211) for those awesome tents.
 * Use RC to remove the not-so-awesome-and-kinda-silly-looking tents from _GypsyVikings_.
 * [Map Sharing Made Easy](https://www.nexusmods.com/valheim/mods/300) for cool-looking maps on tables, and the _option_ to trade maps between players.
-* Patch Sailing Skill mod to include a check for whether the Player's SteamID matches (Captain) Baldur's SteamID, and apply a 10% damage reduction and 10% speed increase to the boat! :D
-
 
 ## Changelog
 
 ### 1.1.2 - PVP Improvements, Skills, Tames and Build Pieces!
-
 * [Patched](https://github.com/Emrik-North/valheimfortifyskills-SafePvpFork) and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
 * Corrected default keybinds for Challenge (K) and Accept Challenge (L) in Fight Club mod.
 * Corrected default keybind for hiding all pins on the map to F9 since F7 was already taken by BetterUI.
@@ -181,7 +178,8 @@ Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and 
 * Added [Surtling Boat](https://www.nexusmods.com/valheim/mods/321), you can spend surtling cores to increase ship speed by up to 20% for 1 minute per core. Place them in the storage and press _Left Shift_ while steering.
 * Added [Show Buildings on Map](https://www.nexusmods.com/valheim/mods/1332) is an Aedenthorn mod. And everything Aedenthorn touches turns to gold, so just trust it.
 * Added [Sailing Skill](https://www.nexusmods.com/valheim/mods/922), which increases speed up to 30% and reduces damage up to 60% the higher your Captain's level is. I wager this might become _really relevant_ once certain rare ocean enemies are introduced...
-* [Patched](https://github.com/Emrik-North/Sailing_Skill_Fork) and recompiled Sailing Skill so to not conflict with Fight Club.
+* [Patched](https://github.com/Emrik-North/Sailing_Skill_Fork) the Sailing Skill mod so to not conflict with Fight Club.
+* [Patched](https://github.com/Emrik-North/Sailing_Skill_Fork) the Sailing Skill mod such that when the player controlling the boat is named "Baldur", the boat takes 30% less damage and goes 10% faster, on top of the skill multipliers.
 * Added [Beasts of Burden](https://www.nexusmods.com/valheim/mods/545), you can now ask your tamed animal to pull your cart for you.
 * Added [Cooking Station Tweaks](https://www.nexusmods.com/valheim/mods/895), lets you put up to 5 things on a single cooking station.
 * Added [AutoFeed](https://www.nexusmods.com/valheim/mods/985), you can put food in a container, and nearby animals will eat from it (only if it only contains food-items).

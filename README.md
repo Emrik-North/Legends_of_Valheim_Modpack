@@ -118,7 +118,7 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 | [Teleport Wolves](https://www.nexusmods.com/valheim/mods/217) | Lets you take a wolf with you through the portal. |
 | [More Round Shield Paints](https://www.nexusmods.com/valheim/mods/254) | Replaces default textures of round shields to something cool. |
 | [Cooking skill](https://www.nexusmods.com/valheim/mods/483) | Increases food duration (up to 2x at level 100) and buffs upon consumption the higher your level. |
-| [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039) | So that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683) | if it updates... |
+| [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039) | So that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683) if it updates to be less buggy... |
 
 
 ## How to install

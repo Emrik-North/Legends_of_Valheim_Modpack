@@ -1,0 +1,11 @@
+{
+    "name": "Legends_of_Valheim_Modpack",
+    "version_number": "1.1.2",
+    "website_url": "",
+    "description": "You need to have this modpack installed in order to connect to the Legends of Valheim server.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100",
+		"ValheimModding-HookGenPatcher-0.0.2",
+		"ValheimModding-Jotunn-2.1.3"
+    ]
+}

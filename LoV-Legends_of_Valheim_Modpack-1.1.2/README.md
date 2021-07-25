@@ -118,7 +118,7 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 | [Teleport Wolves](https://www.nexusmods.com/valheim/mods/217) | Lets you take a wolf with you through the portal. |
 | [More Round Shield Paints](https://www.nexusmods.com/valheim/mods/254) | Replaces default textures of round shields to something cool. |
 | [Cooking skill](https://www.nexusmods.com/valheim/mods/483) | Increases food duration (up to 2x at level 100) and buffs upon consumption the higher your level. |
-| [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039) | So that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683) | if it updates... |
+| [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039) | So that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683) if it updates to be less buggy... |
 
 
 ## How to install
@@ -146,16 +146,12 @@ Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and 
 * [GypsyVikings](https://www.nexusmods.com/valheim/mods/1211) for those awesome tents.
 * Use RC to remove the not-so-awesome-and-kinda-silly-looking tents from _GypsyVikings_.
 * [Map Sharing Made Easy](https://www.nexusmods.com/valheim/mods/300) for cool-looking maps on tables, and the _option_ to trade maps between players.
+* Patch Sailing Skill mod to include a check for whether the Player's SteamID matches (Captain) Baldur's SteamID, and apply a 10% damage reduction and 10% speed increase to the boat! :D
+
 
 ## Changelog
 
 ### 1.1.2 - PVP Improvements, Skills, Tames and Build Pieces!
-
-TODO:
-* Patch Sailing Skill mod to include a check for whether the Player's SteamID matches Baldur's SteamID, and apply a 20% damage reduction and 10% speed increase to the boat!
-
-
-
 
 * [Patched](https://github.com/Emrik-North/valheimfortifyskills-SafePvpFork) and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
 * Corrected default keybinds for Challenge (K) and Accept Challenge (L) in Fight Club mod.
@@ -197,11 +193,11 @@ TODO:
 * Added [Teleport Wolves](https://www.nexusmods.com/valheim/mods/217), lets you take a wolf with you through the portal.
 * Added [More Round Shield Paints](https://www.nexusmods.com/valheim/mods/254), replaces default textures of round shields to something cool.
 * Added [Cooking skill](https://www.nexusmods.com/valheim/mods/483), which increases food duration (up to 2x at level 100) and buffs upon consumption the higher your level.
-* Added [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039), so that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683), if it updates...
+* Added [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039), so that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683) if it updates to be less buggy...
 * Added [ValheimLib](https://www.nexusmods.com/valheim/mods/504), dependency for _Basements_ and some other mods.
 
 ### 1.1.1
-Had to reupload because the Thunderstore interpreter messed up the changelog section of the readme.
+Had to reupload because I messed up the formatting of the Readme.
 
 ### 1.1.0
 (This is a complete list of all the changes that have been made to this modpack compared to the original download we had via the Discord channel.)

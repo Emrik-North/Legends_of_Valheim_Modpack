@@ -193,11 +193,11 @@ Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and 
 * Added [Teleport Wolves](https://www.nexusmods.com/valheim/mods/217), lets you take a wolf with you through the portal.
 * Added [More Round Shield Paints](https://www.nexusmods.com/valheim/mods/254), replaces default textures of round shields to something cool.
 * Added [Cooking skill](https://www.nexusmods.com/valheim/mods/483), which increases food duration (up to 2x at level 100) and buffs upon consumption the higher your level.
-* Added [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039), so that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683), if it updates...
+* Added [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039), so that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683) if it updates to be less buggy...
 * Added [ValheimLib](https://www.nexusmods.com/valheim/mods/504), dependency for _Basements_ and some other mods.
 
 ### 1.1.1
-Had to reupload because the Thunderstore interpreter messed up the changelog section of the readme.
+Had to reupload because I messed up the formatting of the Readme.
 
 ### 1.1.0
 (This is a complete list of all the changes that have been made to this modpack compared to the original download we had via the Discord channel.)

@@ -91,6 +91,7 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 | [JotunnLib](https://www.nexusmods.com/valheim/mods/507) | Dependency for a bunch of stuff. |
 | [Jotunn](https://valheim.thunderstore.io/package/ValheimModding/Jotunn/) | Dependency for a bunch of stuff. |
 | [HookGenPatcher](https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/) | Dependency for Jotunn. |
+| [ValheimLib](https://www.nexusmods.com/valheim/mods/504) | Dependency for a bunch of stuff. |
 | [RRRBetterRaids](https://valheim.thunderstore.io/package/neurodr0me/RRRBetterRaids/) | Enhances the raid system to make base defense actually matter. |
 | [Custom Raids](https://valheim.thunderstore.io/package/ASharpPen/Custom_Raids/) | Dependency for Monsternomicon features. |
 | [RRRMonsters](https://valheim.thunderstore.io/package/neurodr0me/RRRMonsters/) | Dependency for Monsternomicon features. |
@@ -99,6 +100,25 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 | [MonsterLabZ](https://www.nexusmods.com/valheim/mods/1264) | Dependency for Monsternomicon features. |
 | [Spawn That](https://www.nexusmods.com/valheim/mods/453) | Dependency for customising monster spawning. Configs are all server-side. |
 | [ServerBuddy](https://www.nexusmods.com/valheim/mods/1386) | Controls what mods clients are allowed to use in order to connect to the server. Server-side configs to whitelist mods. |
+| [ValWeed](https://www.nexusmods.com/valheim/mods/1023) | This is a surprisingly well-implemented weed mod that lets you farm weed and get high for an increased rested bonus. What's there not to like? |
+| [AllTameable](https://www.nexusmods.com/valheim/mods/478) | Lets you tame Serpents (raw fish) | Fulings (lox pie) | and potentially more creatures if people request it! |
+| [BoneArrows](https://www.nexusmods.com/valheim/mods/609) | Simple mod that introduces an arrow tier in between flint and bronze. Finally a use for bones! |
+| [Candles and Beeswax](https://www.nexusmods.com/valheim/mods/1226) | Includes a bunch of beautiful build pieces. |
+| [Surtling Boat](https://www.nexusmods.com/valheim/mods/321) | You can spend surtling cores to increase ship speed by up to 20% for 1 minute per core. Place them in the storage and press _Left Shift_ while steering. |
+| [Show Buildings on Map](https://www.nexusmods.com/valheim/mods/1332) | This is an Aedenthorn mod. And everything Aedenthorn touches turns to gold, so just trust it. |
+| [Sailing Skill](https://www.nexusmods.com/valheim/mods/922) | Increases speed up to 30% and reduces damage up to 60% the higher your Captain's level is. I wager this might become _really relevant_ once certain rare ocean enemies are introduced... I also [patched](https://github.com/Emrik-North/Sailing_Skill_Fork) and recompiled it so it no longer conflicts with _Fight Club_. |
+| [Beasts of Burden](https://www.nexusmods.com/valheim/mods/545) | Your tamed animal can now pull your cart for you. |
+| [Cooking Station Tweaks](https://www.nexusmods.com/valheim/mods/895) | You can now put up to 5 things on a single cooking station. |
+| [AutoFeed](https://www.nexusmods.com/valheim/mods/985) | You can put food in a container, and nearby animals will eat from it (only if it only contains food-items). |
+| [NameYourTame](https://www.nexusmods.com/valheim/mods/994) | Does what it says! My wolf's named Vanja. :) |
+| [KeezyBetterWolves](https://valheim.thunderstore.io/package/marqgray/Keezys_Better_Wolves/) | Only to reduce howls, not to make wolves more OP. |
+| [CraftyCards](https://www.nexusmods.com/valheim/mods/1116) | Lets you build workbench/forge/stonecutter-carts. Especially useful when you're trying to build a road, and you don't want to keep rebuilding the workbench everywhere. Plus, Gaius really wanted it! |
+| [Odin Architect](https://www.nexusmods.com/valheim/mods/1174) | Adds a bunch of new really well-implemented pieces to build with! |
+| [Basements](https://www.nexusmods.com/valheim/mods/1118) | Placeable entrances to rooms you can hide away. |
+| [Teleport Wolves](https://www.nexusmods.com/valheim/mods/217) | Lets you take a wolf with you through the portal. |
+| [More Round Shield Paints](https://www.nexusmods.com/valheim/mods/254) | Replaces default textures of round shields to something cool. |
+| [Cooking skill](https://www.nexusmods.com/valheim/mods/483) | Increases food duration (up to 2x at level 100) and buffs upon consumption the higher your level. |
+| [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039) | So that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683) | if it updates... |
 
 
 ## How to install
@@ -115,30 +135,25 @@ Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and 
 
 ## TODO
 
-* Biome overhauls in the Mistlands, Deep North and the Ashlands. New monsters and drops!
+### Future version 2.0.0 - Unique World Overhaul!
+* Biome overhauls in the Mistlands, Deep North and the Ashlands. New monsters, drops, tiers, adventures! Most of the balancing and world-integration is complete, but we want to make sure it's good before we update!
 
-## Changelog
-
-SERVER TODO SUGGESTIONS:
-* Add [Cartography](https://valheim.thunderstore.io/package/Advize/CartographySkill/) mod, because it can enforce server-side configs unto clients.
-* Add [ServerBuddy](https://www.nexusmods.com/valheim/mods/1386), and config the whitelist file.
-* Add [SkipSleep](https://valheim.thunderstore.io/package/R1NS3/SkipSleep/)? Supposedly it works if only installed on server, and it can allow us to skip nights during tournament matches and such.
-* Replace [ExtendedDaytime](https://www.nexusmods.com/valheim/mods/38) with Aedenthorn's [DayCyle](https://www.nexusmods.com/valheim/mods/98)? Since ED does funky things to lighting and clocks can desync. Plus, Aedenthorn's mod is more recently updated by 5 months.
-
-### 1.1.3 - Backpacks and Adventuring Update!
-
-TODO SUGGESTIONS:
-* [Bears](https://www.nexusmods.com/valheim/mods/1342)!
+### Future version 1.?.? - Backpacks and Adventuring Update!
 * Add [JotunnBackpacks](https://github.com/Emrik-North/JotunnBackpacks)!
+* Add [Bears](https://www.nexusmods.com/valheim/mods/1342)!
 * Add [RecipeCustomization](https://www.nexusmods.com/valheim/mods/1245)
 * Use RC to change the backpack recipes to use bear hides.
 * [GypsyVikings](https://www.nexusmods.com/valheim/mods/1211) for those awesome tents.
 * Use RC to remove the not-so-awesome-and-kinda-silly-looking tents from _GypsyVikings_.
+* [Map Sharing Made Easy](https://www.nexusmods.com/valheim/mods/300) for cool-looking maps on tables, and the _option_ to trade maps between players.
+* Patch Sailing Skill mod to include a check for whether the Player's SteamID matches (Captain) Baldur's SteamID, and apply a 10% damage reduction and 10% speed increase to the boat! :D
 
-### 1.1.2 - PVP Improvements and Cartography (WIP)
 
-IMPLEMENTED:
-* Patched and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
+## Changelog
+
+### 1.1.2 - PVP Improvements, Skills, Tames and Build Pieces!
+
+* [Patched](https://github.com/Emrik-North/valheimfortifyskills-SafePvpFork) and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
 * Corrected default keybinds for Challenge (K) and Accept Challenge (L) in Fight Club mod.
 * Corrected default keybind for hiding all pins on the map to F9 since F7 was already taken by BetterUI.
 * Open the configuration manager with F4 instead of F1, since Advanced Build Mode (Valheim Plus) is already on F1.
@@ -155,10 +170,31 @@ IMPLEMENTED:
 * Added [SkillInjector](https://valheim.thunderstore.io/package/pipakin/SkillInjector/) because it is a dependency for all skill-introducing mods like Cartography.
 * Got Mathias to update their TransparentSails to v1.1.1, because toggling wasn't working with the new Jotunn version!
 * Added [Useful Trophies](https://valheim.thunderstore.io/package/Khairex/Useful_Trophies/), which enables you to consume trophies for XP in a random skill.
-* Patched and recompiled _Useful Trophies_ to be server-safe and unexploitable, and increased the XP value you get from serpent trophies and rock golem trophies. Valuable commodities!
+* [Patched](https://github.com/Emrik-North/UsefulTrophies-Fork) and recompiled _Useful Trophies_ to be server-safe and unexploitable, and increased the XP value you get from serpent trophies and rock golem trophies. Valuable commodities!
 * Added [Valheim Performance Optimizations](https://www.nexusmods.com/valheim/mods/1360), which should increase FPS and load times, especially near the Capital.
 * Added [QuickStack](https://valheim.thunderstore.io/package/damnsneaker/QuickStack/), which lets you press a configurable key to quickly sort specified items/inventory slots into nearby chests. 'NumpadPeriod' by default.
 * Added [ServerBuddy](https://www.nexusmods.com/valheim/mods/1386), which creates a server-side config file that can whitelist mods and block clients with non-whitelisted mods.
+* Added [ValWeed](https://www.nexusmods.com/valheim/mods/1023), is a surprisingly well-implemented weed mod that lets you farm weed and get high for an increased rested bonus. What's there not to like?
+* Added [AllTameable](https://www.nexusmods.com/valheim/mods/478), lets you tame Serpents (raw fish), Fulings (lox pie), and potentially more creatures if people request it!
+* Added [BoneArrows](https://www.nexusmods.com/valheim/mods/609), simple mod that introduces an arrow tier in between flint and bronze. Finally a use for bones!
+* Added [Candles and Beeswax](https://www.nexusmods.com/valheim/mods/1226), includes a bunch of beautiful build pieces.
+* Added [Surtling Boat](https://www.nexusmods.com/valheim/mods/321), you can spend surtling cores to increase ship speed by up to 20% for 1 minute per core. Place them in the storage and press _Left Shift_ while steering.
+* Added [Show Buildings on Map](https://www.nexusmods.com/valheim/mods/1332) is an Aedenthorn mod. And everything Aedenthorn touches turns to gold, so just trust it.
+* Added [Sailing Skill](https://www.nexusmods.com/valheim/mods/922), which increases speed up to 30% and reduces damage up to 60% the higher your Captain's level is. I wager this might become _really relevant_ once certain rare ocean enemies are introduced...
+* [Patched](https://github.com/Emrik-North/Sailing_Skill_Fork) and recompiled Sailing Skill so to not conflict with Fight Club.
+* Added [Beasts of Burden](https://www.nexusmods.com/valheim/mods/545), you can now ask your tamed animal to pull your cart for you.
+* Added [Cooking Station Tweaks](https://www.nexusmods.com/valheim/mods/895), lets you put up to 5 things on a single cooking station.
+* Added [AutoFeed](https://www.nexusmods.com/valheim/mods/985), you can put food in a container, and nearby animals will eat from it (only if it only contains food-items).
+* Added [NameYourTame](https://www.nexusmods.com/valheim/mods/994), does what it says! My wolf's named Vanja. :)
+* Added [KeezyBetterWolves](https://valheim.thunderstore.io/package/marqgray/Keezys_Better_Wolves/), only to reduce howls, not to make wolves more OP.
+* Added [CraftyCards](https://www.nexusmods.com/valheim/mods/1116), which lets you build workbench/forge/stonecutter-carts. Especially useful when you're trying to build a road, and you don't want to keep rebuilding the workbench everywhere.
+* Added [Odin Architect](https://www.nexusmods.com/valheim/mods/1174), adds a bunch of new really well-implemented pieces to build with.
+* Added [Basements](https://www.nexusmods.com/valheim/mods/1118), which are placeable entrances to rooms you can hide away.
+* Added [Teleport Wolves](https://www.nexusmods.com/valheim/mods/217), lets you take a wolf with you through the portal.
+* Added [More Round Shield Paints](https://www.nexusmods.com/valheim/mods/254), replaces default textures of round shields to something cool.
+* Added [Cooking skill](https://www.nexusmods.com/valheim/mods/483), which increases food duration (up to 2x at level 100) and buffs upon consumption the higher your level.
+* Added [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039), so that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683), if it updates...
+* Added [ValheimLib](https://www.nexusmods.com/valheim/mods/504), dependency for _Basements_ and some other mods.
 
 ### 1.1.1
 Had to reupload because the Thunderstore interpreter messed up the changelog section of the readme.

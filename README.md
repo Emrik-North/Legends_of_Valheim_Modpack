@@ -113,13 +113,14 @@ Zones has also been used to enforce PVP-enabled inside the Arena (and NoBuildDam
 | [NameYourTame](https://www.nexusmods.com/valheim/mods/994) | Does what it says! My wolf's named Vanja. :) |
 | [KeezyBetterWolves](https://valheim.thunderstore.io/package/marqgray/Keezys_Better_Wolves/) | Only to reduce howls, not to make wolves more OP. |
 | [CraftyCards](https://www.nexusmods.com/valheim/mods/1116) | Lets you build workbench/forge/stonecutter-carts. Especially useful when you're trying to build a road, and you don't want to keep rebuilding the workbench everywhere. Plus, Gaius really wanted it! |
-| [Odin Architect](https://www.nexusmods.com/valheim/mods/1174) | Adds a bunch of new really well-implemented pieces to build with! |
 | [Basements](https://www.nexusmods.com/valheim/mods/1118) | Placeable entrances to rooms you can hide away. |
 | [Teleport Wolves](https://www.nexusmods.com/valheim/mods/217) | Lets you take a wolf with you through the portal. |
 | [More Round Shield Paints](https://www.nexusmods.com/valheim/mods/254) | Replaces default textures of round shields to something cool. |
 | [Cooking skill](https://www.nexusmods.com/valheim/mods/483) | Increases food duration (up to 2x at level 100) and buffs upon consumption the higher your level. |
 | [Floors are roofs](https://www.nexusmods.com/valheim/mods/1039) | So that you can sleep in your ship's cabin without putting a silly  house roof on top. In preparation for [ValheimRaft](https://forums.nexusmods.com/index.php?/topic/9960253-valheimraft/page-7#entry93998683) if it updates to be less buggy... |
-
+| [Clutter](https://www.nexusmods.com/valheim/mods/1350) | Build pieces! |
+| [Build It](https://www.nexusmods.com/valheim/mods/1385) | Build pieces! |
+| [Drop That](https://www.nexusmods.com/valheim/mods/221) | Allows the server to configure custom drops for each creature, including the new monsters. |
 
 ## How to install
 
@@ -133,21 +134,17 @@ If you prefer video, here's a [quick how-to](https://youtu.be/eh_osC1R_6U).
 
 Active mods should now be _BepInExPack_Valheim_, _HookGenPatcher_, _Jotunn_ and _Legends_of_Valheim_Modpack_. You are now ready to join the server! Just click _Start modded_ in the top-left corner.
 
-## TODO
-
-### Future version 2.0.0 - Unique World Overhaul!
-* Biome overhauls in the Mistlands, Deep North and the Ashlands. New monsters, drops, tiers, adventures! Most of the balancing and world-integration is complete, but we want to make sure it's good before we update!
-
-### Future version 1.?.? - Backpacks and Adventuring Update!
-* Add [JotunnBackpacks](https://github.com/Emrik-North/JotunnBackpacks)!
-* Add [Bears](https://www.nexusmods.com/valheim/mods/1342)!
-* Add [RecipeCustomization](https://www.nexusmods.com/valheim/mods/1245)
-* Use RC to change the backpack recipes to use bear hides.
-* [GypsyVikings](https://www.nexusmods.com/valheim/mods/1211) for those awesome tents.
-* Use RC to remove the not-so-awesome-and-kinda-silly-looking tents from _GypsyVikings_.
-* [Map Sharing Made Easy](https://www.nexusmods.com/valheim/mods/300) for cool-looking maps on tables, and the _option_ to trade maps between players.
-
 ## Changelog
+
+### 1.1.4
+* Remove food health/stamina increase from Cooking skill. Only keep duration bonus. This is so that Cooking skill isn't relevant for pvp fights.
+* Added [Drop That](https://www.nexusmods.com/valheim/mods/221), which allows the server to configure custom drops for each creature, including the new monsters.
+* Added [Clutter](https://www.nexusmods.com/valheim/mods/1350), a pack of new build pieces.
+* Added [Build It](https://www.nexusmods.com/valheim/mods/1385), more build pieces!
+* Removed FloorsAreRoofs because it was producing some mysterious errors under certain conditions.
+
+### 1.1.3 - hotfix
+ * There was an error due to how Thunderstore packages the folders during upload. OdinArchitect requires a folder structure that is incompatible with Thunderstore for now.
 
 ### 1.1.2 - PVP Improvements, Skills, Tames and Build Pieces!
 * [Patched](https://github.com/Emrik-North/valheimfortifyskills-SafePvpFork) and recompiled Fortify Skills to include a config that disables skill loss on death with PVP enabled. Should make the arena safe, even in team-vs-team battles! :D
